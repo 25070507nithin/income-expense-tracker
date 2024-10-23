@@ -115,19 +115,19 @@ Body: {
 ## Postman Screenshots
 
 ### Add a Transaction
-![Add a Transaction](screenshots/add_transaction (2).png)
+![Add a Transaction](screenshots/add_transcation (2).png)
 
 ### Retrieve All Transactions
 ![Retrieve All Transactions](screenshots/retrieve_all_transactions.png)
 
 ### Retrieve a Transaction by ID
-![Retrieve a Transaction](screenshots/retrieve_transaction.png)
+![Retrieve a Transaction](screenshots/retrieve_transcation.png)
 
 ### Update a Transaction
 ![Update a Transaction](screenshots/update_transaction.png)
 
 ### Delete a Transaction
-![Delete a Transaction](screenshots/delete_transaction.png)
+![Delete a Transaction](screenshots/delete_transcation.png)
 
 ### Retrieve Transaction Summary
 ![Retrieve Transaction Summary](screenshots/summary.png)
